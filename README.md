@@ -5,17 +5,16 @@ I have recently completed my certification in Cybersecurity, and I am excited to
 
 ## Objective
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field.
+My journey in computer science has led me to develop a passion for technology, and I am now eager to transition into this field.
 
 ## Skills
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
+| SIEM Implementation and Log Analysis          | <a href="https://docs.google.com/document/d/1VYrUMAqBeaFbOAn7CJXkL8uRvG9SXQlpDGCmaBXnEVo/edit?usp=sharing">QwikLabs</a>|
+| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Qwiklabs</a>|
+| Security Automation Tasks Using Python          | SOC Automation Lab|
+| Incident Response Planning and Execution      | <a href="https://docs.google.com/document/d/1rTmnKpjksxoW7vccuHXNYLAoSDHNKwZBqfFEZsDP28o/edit?usp=sharing">Google Doc</a>|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
@@ -26,12 +25,6 @@ My journey in computer science has led me to develop a passion for cybersecurity
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
     <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
-</div>
-
-### Endpoint
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
 </div>
 
 ### SIEM

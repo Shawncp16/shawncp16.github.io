@@ -11,11 +11,11 @@ My journey in computer science has led me to develop a passion for technology, a
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://docs.google.com/document/d/1VYrUMAqBeaFbOAn7CJXkL8uRvG9SXQlpDGCmaBXnEVo/edit?usp=sharing">QwikLabs</a>|
+| SIEM Implementation and Log Analysis            | <a href="https://docs.google.com/document/d/1VYrUMAqBeaFbOAn7CJXkL8uRvG9SXQlpDGCmaBXnEVo/edit?usp=sharing">QwikLabs</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Qwiklabs</a>|
 | Security Automation Tasks Using Python          | SOC Automation Lab|
-| Incident Response Planning and Execution      | <a href="https://docs.google.com/document/d/1rTmnKpjksxoW7vccuHXNYLAoSDHNKwZBqfFEZsDP28o/edit?usp=sharing">Google Doc</a>|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Incident Response Planning and Execution        | <a href="https://docs.google.com/document/d/1rTmnKpjksxoW7vccuHXNYLAoSDHNKwZBqfFEZsDP28o/edit?usp=sharing">Google Doc</a>|
+| Granting File Permissions Using Linux           |<a href="https://docs.google.com/document/d/1P_50pkDmIixnu0cczhZ0ku4Gii5mTVoWz2IfgBwMnVM/edit?tab=t.0">QwikLabs</a>|
 
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
